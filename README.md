@@ -1,3 +1,9 @@
+A modified version of the ORIGINAL RSG-Core REDM MENU.
+
+All credits go to original author and sscript.
+
+- https://github.com/Rexshack-RedM/rsg-radialmenu
+
 # RexshackGaming
 - discord : https://discord.gg/eW3ADkf4Af
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
